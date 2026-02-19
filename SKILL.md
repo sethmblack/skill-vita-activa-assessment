@@ -4,7 +4,7 @@ description: 'Analyze activities, life patterns, or institutional contexts throu
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5285
+  version: 1.0.5286
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
